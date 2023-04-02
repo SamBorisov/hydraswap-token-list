@@ -167,5 +167,12 @@
     "fees": 6,
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/HVGpspGbuWeWwioCPjFeegxponju39K9j2"
+  },
+  {
+    "address": "HJczWpCJhkJRXTqi8uxpMce1dMNpJK6v1q",
+    "name": "Citadeli Hydra Community Node",
+    "fees": 100,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HJczWpCJhkJRXTqi8uxpMce1dMNpJK6v1q"
   }
 ]
