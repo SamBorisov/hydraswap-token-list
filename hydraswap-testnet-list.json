@@ -23,11 +23,27 @@
       "symbol": "TA",
       "decimals": 8,
       "logoURI": ""
+    },
+    {
+      "chainId": 2,
+      "address": "2f859738695d1699844ec197359f55c306c4eb74",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/MCDDai_32.webp"
+    },
+    {
+      "chainId": 2,
+      "address": "438d420c1cadefab544c5d2b9adf62c380b40934",
+      "name": "Liquid HYDRA",
+      "symbol": "LYDRA",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/6d9115a21863ce31b44cd231e4c4ccc87566222f.png"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
