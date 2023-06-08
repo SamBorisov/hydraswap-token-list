@@ -1,11 +1,7 @@
 {
   "name": "HydraSwap",
   "logoURI": "",
-  "keywords": [
-    "hydra",
-    "hydraswap",
-    "testnet"
-  ],
+  "keywords": ["hydra", "hydraswap", "testnet"],
   "timestamp": "2021-08-04T16:37:00.000+00:00",
   "tokens": [
     {
@@ -39,11 +35,35 @@
       "symbol": "LYDRA",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/6d9115a21863ce31b44cd231e4c4ccc87566222f.png"
+    },
+    {
+      "chainId": 2,
+      "address": "15a7fb6d1bb3a91dc55ec7eb45c5b41c63bc5f3a",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/wbtc_28.webp"
+    },
+    {
+      "chainId": 2,
+      "address": "950c3f81fa44f700cb59ba56abb184c879d6a0cc",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/ethereum-icon.webp"
+    },
+    {
+      "chainId": 2,
+      "address": "e8abdbb2d279429b6b0381abf97827892b2c5f52",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
