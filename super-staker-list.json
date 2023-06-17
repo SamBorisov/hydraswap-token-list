@@ -174,5 +174,12 @@
     "fees": 2,
     "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HCCFbMFg2CWNqUpAYUVdE2v5vH7qQDQ5jQ"
+  },
+  {
+    "address": "HAPNpmSpGvVkoF9btEKbGk9pxMFHCgq8jn",
+    "name": "Marilla",
+    "fees": 5,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HAPNpmSpGvVkoF9btEKbGk9pxMFHCgq8jn"
   }
 ]
