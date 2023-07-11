@@ -38,8 +38,8 @@
   {
     "address": "HJX7Mt2oSsWmfiPTVap8xdSn2yzkm4VqCu",
     "name": "Hydra Mining Hub",
-    "fees": 5,
-    "utxo": 100,
+    "fees": 4,
+    "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HJX7Mt2oSsWmfiPTVap8xdSn2yzkm4VqCu"
   },
   {
@@ -129,7 +129,7 @@
   {
     "address": "HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr",
     "name": "ArAAfrA",
-    "fees": 20,
+    "fees": 3,
     "utxo": 0.1,
     "website": "https://explorer.hydrachain.org/address/HAnT3wpxv6KFdZENuu8P1yk2NFPNozH5jr"
   },
