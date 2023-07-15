@@ -52,8 +52,8 @@
   {
     "address": "H8qCpDYUqoXXSL7MRiV4mnH4ABM2YjGuy8",
     "name": "Montanic",
-    "fees": 5,
-    "utxo": 100,
+    "fees": 4,
+    "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/H8qCpDYUqoXXSL7MRiV4mnH4ABM2YjGuy8"
   },
   {
