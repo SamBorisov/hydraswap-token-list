@@ -77,13 +77,6 @@
     "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
   },
   {
-    "address": "HQhxb9qntUzHX73yCYaW5kTcT8oATApbea",
-    "name": "BRSTAKER",
-    "fees": 4,
-    "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HQhxb9qntUzHX73yCYaW5kTcT8oATApbea"
-  },
-  {
     "address": "H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT",
     "name": "BlueVision",
     "fees": 5,
