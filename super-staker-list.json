@@ -21,20 +21,12 @@
     "website": "https://explorer.hydrachain.org/address/HRAS35Sp8R3BUpWKJgFZKYsYGc4vBkjpJx"
   },
   {
-    "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
-    "name": "Critics club ;D",
-    "fees": 2,
-    "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r"
-  },
-  {
     "address": "H8LDCwewDPhdiNXkFAdgyWhcGTMxVqhqrB",
     "name": "Dhydra",
     "fees": 5,
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/H8LDCwewDPhdiNXkFAdgyWhcGTMxVqhqrB"
   },
-
   {
     "address": "HJX7Mt2oSsWmfiPTVap8xdSn2yzkm4VqCu",
     "name": "Hydra Mining Hub",
@@ -83,13 +75,6 @@
     "fees": 5,
     "utxo": 5.5,
     "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
-  },
-  {
-    "address": "HQhxb9qntUzHX73yCYaW5kTcT8oATApbea",
-    "name": "BRSTAKER",
-    "fees": 4,
-    "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HQhxb9qntUzHX73yCYaW5kTcT8oATApbea"
   },
   {
     "address": "H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT",
@@ -181,5 +166,12 @@
     "fees": 5,
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/HAPNpmSpGvVkoF9btEKbGk9pxMFHCgq8jn"
+  },
+  {
+    "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
+    "name": "Critics club ;D - OFFLINE",
+    "fees": 11,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r"
   }
 ]
