@@ -168,6 +168,13 @@
     "website": "https://explorer.hydrachain.org/address/HAPNpmSpGvVkoF9btEKbGk9pxMFHCgq8jn"
   },
   {
+    "address": "HH1sRtSnvxWjgCTVvvyznp5aqcjZxdWKcx",
+    "name": "flickerdot",
+    "fees": 4,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HH1sRtSnvxWjgCTVvvyznp5aqcjZxdWKcx"
+  },
+  {
     "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
     "name": "Critics club ;D - OFFLINE",
     "fees": 11,
