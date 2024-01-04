@@ -73,7 +73,7 @@
     "address": "HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7",
     "name": "HODLRA",
     "fees": 5,
-    "utxo": 5.5,
+    "utxo": 4.5,
     "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
   },
   {
@@ -82,13 +82,6 @@
     "fees": 5,
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT"
-  },
-  {
-    "address": "HA2em7RRTkCcoc4xMvpFEjqgf28DSsd94f",
-    "name": "staKedraKe",
-    "fees": 4,
-    "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HA2em7RRTkCcoc4xMvpFEjqgf28DSsd94f"
   },
   {
     "address": "HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK",
