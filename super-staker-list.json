@@ -77,13 +77,6 @@
     "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
   },
   {
-    "address": "H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT",
-    "name": "BlueVision",
-    "fees": 5,
-    "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT"
-  },
-  {
     "address": "HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK",
     "name": "HydraEcosystemHolder",
     "fees": 5,
@@ -169,9 +162,16 @@
   },
   {
     "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
-    "name": "Critics club ;D - OFFLINE",
+    "name": "Critics club ;D -OFFLINE-Please change Delegation",
     "fees": 11,
     "utxo": 100,
     "website": "https://explorer.hydrachain.org/address/HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r"
+  },
+  {
+    "address": "H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT",
+    "name": "BlueVision -OFFLINE-Please change Delegation",
+    "fees": 11,
+    "utxo": 100,
+    "website": "https://explorer.hydrachain.org/address/H9WJsEdpWQmYSBvfivkdA1QX5eYCVVXefT"
   }
 ]
