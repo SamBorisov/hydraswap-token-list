@@ -154,6 +154,13 @@
     "website": "https://explorer.hydrachain.org/address/HAxnCvUpYPB9ZVb4jrDpq99vyivsjAso6q"
   },
   {
+    "address": "HQDxMfvBbyqg3kphrwZDH9EGofHF2Gz6Lu",
+    "name": "HydraGoat",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HQDxMfvBbyqg3kphrwZDH9EGofHF2Gz6Lu"
+  },
+  {
     "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
     "name": "Critics club ;D -OFFLINE-Please change Delegation",
     "fees": 11,
