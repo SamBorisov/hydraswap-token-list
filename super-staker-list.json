@@ -84,13 +84,6 @@
     "website": "https://explorer.hydrachain.org/address/HKEPaqNyeHEEnhjqJAeWwV8bzuuT76Vze7"
   },
   {
-    "address": "HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK",
-    "name": "HydraEcosystemHolder",
-    "fees": 5,
-    "utxo": 100,
-    "website": "https://explorer.hydrachain.org/address/HHrBe17n2n81hUzFHBWzT63Pavi2UgBdLK"
-  },
-  {
     "address": "HPvcEfUJ3ACu9aGqUn9zvBmtyX3xLW8Y8a",
     "name": "STAKE42",
     "fees": 2,
@@ -159,6 +152,13 @@
     "fees": 3,
     "utxo": 5,
     "website": "https://explorer.hydrachain.org/address/HAxnCvUpYPB9ZVb4jrDpq99vyivsjAso6q"
+  },
+  {
+    "address": "HQDxMfvBbyqg3kphrwZDH9EGofHF2Gz6Lu",
+    "name": "HydraGoat",
+    "fees": 5,
+    "utxo": 5,
+    "website": "https://explorer.hydrachain.org/address/HQDxMfvBbyqg3kphrwZDH9EGofHF2Gz6Lu"
   },
   {
     "address": "HDgTWk1QN5ooeqdsTuVxutN83Dnaz1A12r",
