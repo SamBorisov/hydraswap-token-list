@@ -1,7 +1,7 @@
 {
-  "name": "HydraSwap",
-  "logoURI": "",
-  "keywords": ["hydra", "hydraswap"],
+  "name": "HydraGon Token List",
+  "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/hydra-logo.png",
+  "keywords": ["hydra", "hydragon", "tokens"],
   "timestamp": "2021-05-24T20:37:00.000+00:00",
   "tokens": [
     {
