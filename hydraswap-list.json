@@ -20,94 +20,22 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
     },
-    {
+        {
       "chainId": 8844,
-      "address": "abc2cd00700e06922bcf30fe0ad648507113cc56",
-      "name": "HYDRA-Pegged DAI",
-      "symbol": "DAI",
+      "address": "0x88912AE0f97db0B278EE1F25734D147eA8E91fdC",
+      "name": "MyToken",
+      "symbol": "MKT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/MCDDai_32.webp"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
     },
-    {
+        {
       "chainId": 8844,
-      "address": "27a459ac47204f1e7fc5c48ffeafa990af244e13",
-      "name": "HYDRA-Pegged WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/wbtc_28.webp"
-    },
-    {
-      "chainId": 8844,
-      "address": "ab9e970de9ba9ec2c64a7f7f911da44b750ecf6a",
-      "name": "HYDRA-Pegged Ethereum",
-      "symbol": "ETH",
+      "address": "0xEf8EF3D25100C58d28A8DCe575334f881a5a14Cb",
+      "name": "TestToken",
+      "symbol": "TT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/ethereum-icon.webp"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
     },
-    {
-      "chainId": 8844,
-      "address": "4ab26aaa1803daa638910d71075c06386e391147",
-      "name": "LockTrip",
-      "symbol": "LOC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/LockTrip_LOC_400x400.jpg"
-    },
-    {
-      "chainId": 8844,
-      "address": "bd3c617d271b3467bd9b83dda73c9288de2fb0c9",
-      "name": "ChangeX",
-      "symbol": "CHANGE",
-      "decimals": 18,
-      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/changex-logo-round.png"
-    },
-    {
-      "chainId": 8844,
-      "address": "9cbbbc9d192fc81225a70f88877169b94d663f8b",
-      "name": "Evedo",
-      "symbol": "EVED",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/evedo_28.webp"
-    },
-    {
-      "chainId": 8844,
-      "address": "e4b8164dccf3489f66124cace1570dc35b58fc90",
-      "name": "USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
-    },
-    {
-      "chainId": 8844,
-      "address": "932917c89717c809f67ebb421e24fd04d7a96d33",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://etherscan.io/token/images/tether_32.png"
-    },
-    {
-      "chainId": 8844,
-      "address": "0c404645b9e36b6cf9bcaf2747e472334b268e9d",
-      "name": "BUSD",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/binanceusd_32.png"
-    },
-    {
-      "chainId": 8844,
-      "address": "7b8dd012ec9e1f11e008376ef21d29ba4cc78e24",
-      "name": "GoMeat",
-      "symbol": "GOMT",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/Gomt.jpg"
-    },
-    {
-      "chainId": 8844,
-      "address": "98d6202d354eed7567890b59072ead1c21d46c66",
-      "name": "Stray Token",
-      "symbol": "STRAY",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/Stray.jpg"
-    }
   ],
   "version": {
     "major": 2,
