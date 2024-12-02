@@ -6,7 +6,7 @@
   "tokens": [
     {
       "chainId": 8844,
-      "address": "0xc69968922163cdc458258ED2dF9E6D5fd8efd0Af",
+      "address": "0x4c79Cd65a93B4F5A03F31407195DcC72Ba8F4CcA",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 18,
@@ -20,7 +20,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
     },
-        {
+    {
       "chainId": 8844,
       "address": "0x88912AE0f97db0B278EE1F25734D147eA8E91fdC",
       "name": "MyToken",
@@ -28,11 +28,27 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
     },
-        {
+    {
       "chainId": 8844,
       "address": "0xEf8EF3D25100C58d28A8DCe575334f881a5a14Cb",
       "name": "TestToken",
       "symbol": "TT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
+    },
+    {
+      "chainId": 8844,
+      "address": "0x22ec7Ea0C1d19eFb5b451e1B8Ed316624a3F5946",
+      "name": "MyToken1",
+      "symbol": "MT1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
+    },
+    {
+      "chainId": 8844,
+      "address": "0x7b83707859ca20b9ED62Be02C7Cd4f17D779079A",
+      "name": "MyToken2",
+      "symbol": "MT2",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
     },
