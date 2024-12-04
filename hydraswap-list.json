@@ -6,7 +6,7 @@
   "tokens": [
     {
       "chainId": 8844,
-      "address": "0x4c79Cd65a93B4F5A03F31407195DcC72Ba8F4CcA",
+      "address": "0xf99Ceee50aF3A113c4f98C6Af0427b76950B5080",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 18,
@@ -19,14 +19,6 @@
       "symbol": "LYDRA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
-    },
-    {
-      "chainId": 8844,
-      "address": "0xEf8EF3D25100C58d28A8DCe575334f881a5a14Cb",
-      "name": "TestToken",
-      "symbol": "TT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/4ab26aaa1803daa638910d71075c06386e391147/logo.png"
     },
     {
       "chainId": 8844,
