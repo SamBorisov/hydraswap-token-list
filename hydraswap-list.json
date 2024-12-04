@@ -22,14 +22,6 @@
     },
     {
       "chainId": 8844,
-      "address": "0x88912AE0f97db0B278EE1F25734D147eA8E91fdC",
-      "name": "MyToken",
-      "symbol": "MKT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/assets/blockchain/mainnet/assets/4ab26aaa1803daa638910d71075c06386e391147/logo.png"
-    },
-    {
-      "chainId": 8844,
       "address": "0xEf8EF3D25100C58d28A8DCe575334f881a5a14Cb",
       "name": "TestToken",
       "symbol": "TT",
@@ -38,7 +30,7 @@
     },
     {
       "chainId": 8844,
-      "address": "0x22ec7Ea0C1d19eFb5b451e1B8Ed316624a3F5946",
+      "address": "0x048a1bbcc569dcEbbC1cF3c3D11ef8C791F8Ce32",
       "name": "MyToken1",
       "symbol": "MT1",
       "decimals": 18,
@@ -46,7 +38,7 @@
     },
     {
       "chainId": 8844,
-      "address": "0x7b83707859ca20b9ED62Be02C7Cd4f17D779079A",
+      "address": "0xe0ABF31F69Ea2F1886CF550Cc5e272Ec968Cd918",
       "name": "MyToken2",
       "symbol": "MT2",
       "decimals": 18,
